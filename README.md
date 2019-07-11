@@ -7,7 +7,7 @@ Bot is providing automate liking of recent instagram posts by tag/hashtag
   <li>Geckodriver: https://github.com/mozilla/geckodriver/releases</li>
   <li>Mozilla Firefox: https://www.mozilla.org/en-US/</li>
   <li>Python 3.7: https://www.python.org/downloads/</li>
-  <li>Selenium: install trhought pip</li>
+  <li>Selenium: install throught pip</li>
 </ul>
 
 ### How to install: 
